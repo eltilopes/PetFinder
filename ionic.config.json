@@ -1,0 +1,7 @@
+{
+  "name": "petFinder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
